@@ -28,3 +28,13 @@ Requests – API calls
 Pillow (PIL) – for displaying weather icons
 
 OpenWeatherMap API
+
+💡 Future Improvements
+------------
+🌍 Add geolocation-based weather detection
+
+🌐 Build a web version using Flask/Django
+
+📱 Convert to a mobile app (Kivy/Flutter)
+
+📊 Add graphical temperature trends
