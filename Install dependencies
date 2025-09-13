@@ -1,0 +1,4 @@
+if your python version is 3.13  use :
+## py -m pip install pillow
+or
+##python -m pip install pillow
