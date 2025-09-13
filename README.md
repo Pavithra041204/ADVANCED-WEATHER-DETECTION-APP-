@@ -38,3 +38,5 @@ OpenWeatherMap API
 📱 Convert to a mobile app (Kivy/Flutter)
 
 📊 Add graphical temperature trends
+
+This weather app works by taking a city name as input, fetching real-time weather data from the OpenWeatherMap API, and displaying the results in a Tkinter-based GUI. The code extracts details like temperature, humidity, wind speed, sunrise, and sunset from the API’s JSON response, along with weather icons using Pillow. The data is then presented neatly in the app window, including a 5-day forecast and a search history feature for quick access to recent cities.
